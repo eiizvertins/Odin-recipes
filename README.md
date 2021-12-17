@@ -1,3 +1,3 @@
 # Odin-recipes
 First Odin project
-This website is build using HTML. 
+This website is build using HTML
